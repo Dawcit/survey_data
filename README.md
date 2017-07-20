@@ -1,5 +1,5 @@
 readme file
-line1
+line1 CONFLICT
 line3
 line3.5
 line4
